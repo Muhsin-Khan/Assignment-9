@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.614a5781.css",
+    "main.js": "/static/js/main.f6e0fa24.js",
+    "static/js/787.3f11bdf5.chunk.js": "/static/js/787.3f11bdf5.chunk.js",
+    "static/media/Think and Grow Rich.jpg": "/static/media/Think and Grow Rich.a3c81a785c6eb61f6f5b.jpg",
+    "index.html": "/index.html",
+    "main.614a5781.css.map": "/static/css/main.614a5781.css.map",
+    "main.f6e0fa24.js.map": "/static/js/main.f6e0fa24.js.map",
+    "787.3f11bdf5.chunk.js.map": "/static/js/787.3f11bdf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.614a5781.css",
+    "static/js/main.f6e0fa24.js"
+  ]
+}

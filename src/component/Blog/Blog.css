@@ -1,0 +1,11 @@
+.container{
+    margin: 20px;
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+}
+.ans{
+    border: 1px solid rgba(0, 128, 0, 0.534);
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 10px;
+}

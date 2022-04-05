@@ -1,0 +1,33 @@
+.writers-name{
+    color: rgb(41, 40, 40);
+    font-size: medium;
+    font-weight: 800;
+}
+.newcss2 img{
+    width: 80%;
+  
+    
+
+}
+.test{
+    color: rgb(0, 0, 0);
+}
+.section-css{
+
+    background-color: #ffffff;
+}
+.testcss{
+    color: rgb(6, 170, 47);
+    font-weight: 700;
+    padding-top: 20%;
+    align-items: center;
+    justify-content: center;
+}
+.card-css{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+}
+
+
+    
+
